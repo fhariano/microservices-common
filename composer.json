@@ -1,0 +1,19 @@
+{
+    "name": "fhariano/microservices-common",
+    "description": "Package files utils Microservices Course",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fhariano",
+            "email": "fhariano@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fhariano\\MicroservicesCommon\\": "src/"
+        }
+    }
+}
